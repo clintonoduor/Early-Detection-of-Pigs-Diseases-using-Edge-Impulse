@@ -1,0 +1,1 @@
+# Early-Detection-of-Pigs-Diseases-using-Edge-Impulse
